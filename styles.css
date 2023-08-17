@@ -21,6 +21,9 @@ ul:first-child{
 		font-size:"22px";
 		background:"white";
 }
+ul:nth-child(3){
+ background:"white"
+}	
 ul:last{
 	font-size:"22px";
 	background:"white";
