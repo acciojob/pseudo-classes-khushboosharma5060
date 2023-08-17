@@ -4,13 +4,13 @@
 }
 p:first-child{
 	background: #FFFFFF;
-	color: white;
+	color: #FFFFFF;
 }
 p:nth-child(2){
-	color:white
+	color:#FFFFFF
 }
 p:last-child{
-	color: red;
+	color: #FF0000;
 }
 .ul-items{
 	background-color:#808080;
@@ -19,15 +19,15 @@ p:last-child{
 }
 ul:first-child{
 		font-size:22px;
-		background:white;
+		background:#FFFFFF;
 }
 ul:last-child{
- background:white;
+ background:#FFFFFF;
  font-size:22px;	
 }	
 
 ul:last{
-	background:pink;
+	background:rgb(255,105,180);
 }	
 
 
